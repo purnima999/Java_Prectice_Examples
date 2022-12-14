@@ -1,7 +1,7 @@
 # Java
 
 1. [Rock Paper Scissor Game in Java](https://github.com/purnima999/Java/blob/main/Rock_Paper_Scissor.java).
-2. [Java Patterns Code]().
+2. [Java Patterns Code](https://github.com/purnima999/Java/blob/main/PatternProblems.java).
 ```
 1.Downward Triangle Star Pattern: 
 * * * * * 
