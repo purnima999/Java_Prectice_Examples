@@ -52,5 +52,5 @@
    * 
 ```
 3. Basic Examples
-    (i). [Find largest number in an Array](https://github.com/purnima999/Java_Prectice_Examples/blob/main/LargestNum.java).
+    (i). [Find largest number in an Array](https://github.com/purnima999/Java_Prectice_Examples/blob/main/LargestNum.java)
    
